@@ -1,3 +1,4 @@
-# 100-days-of-code
-From Monday 11th 2024 for 3 hours per day  
-Day 1/100:
+# 100-days-of-code log
+## Start date: 11th March 2024
+## End Date: 
+
