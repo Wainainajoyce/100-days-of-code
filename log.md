@@ -11,7 +11,7 @@
 
 ***Thoughts:*** Actually string formatting is kinda a broad topic. There are also very different ways of formatting strings in python.It all depends on your preference. I should also go through all ways so that it can be easier to read through some other person's code.
 
-***Link to Work:*** 
+***Link to Work:*** https://github.com/Wainainajoyce/100-days-of-code/blob/main/Day1/fundamentals.py
 
 
 
