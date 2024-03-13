@@ -15,7 +15,7 @@
 
 ## Day 2/100: Wednesday 13<sup>th</sup> March 2024
 ***Today's Progress:*** Had a deep dive into strings and the methods used with strings. Started on numbers, boolean values in python. Did a challenge on hackerank in python.  
-***Thoughts:*** I do have a long way to go in Python.
+***Thoughts:*** I do have a long way to go in Python.  
 ***Link to Work:*** Added onto yesterday's working.
 
 
