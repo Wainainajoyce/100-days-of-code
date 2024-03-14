@@ -20,6 +20,13 @@
  
 ***Link to Work:*** Added onto yesterday's working.
 
+## Day 3/100: Thursday 14<sup>th</sup> March 2024
+***Today's Progress:*** Worked on Number functions in python and the various modules that support number functions and methods.Also worked on characters and character references, conversion of both and use of octal, decimal and hexadecimal numbers.  
+
+***Thoughts:*** Actually i have never gone through the ASCII table.  
+ 
+***Link to Work:*** Added onto yesterday's working.
+
 
 
 
