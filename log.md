@@ -27,6 +27,13 @@
  
 ***Link to Work:*** Added onto yesterday's working.
 
+## Day 4/100: Friday 15<sup>th</sup> March 2024
+***Today's Progress:*** Worked on object oriented concepts in python. These include objects and classes   
+
+***Thoughts:*** Object Oriented concepts enables better code functionality. It aso makes work easier like having a template(class) to create various objects.
+ 
+***Link to Work:*** 
+
 
 
 
