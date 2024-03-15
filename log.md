@@ -32,7 +32,7 @@
 
 ***Thoughts:*** Object Oriented concepts enables better code functionality. It aso makes work easier like having a template(class) to create various objects.
  
-***Link to Work:*** 
+***Link to Work:*** https://github.com/Wainainajoyce/100-days-of-code/blob/main/Day4/oop.py
 
 
 
