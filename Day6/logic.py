@@ -1,0 +1,1 @@
+print("Today is on a Friday")
