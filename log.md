@@ -9,7 +9,7 @@
 ## Day 1/100: Tuesday 12<sup>th</sup> March 2024
 ***Today's Progress:*** Went through normal string formatting and conditional string formatting. Also touched on string formatting using methods.
 
-***Thoughts:*** Actually string formatting is kinda a broad topic. There are also very different ways of formatting strings in python.It all depends on your preference. I should also go through all ways so that it can be easier to read through some other person's code.
+***Thoughts:*** Actually string formatting is kinda a broad topic. There are also very different ways of formatting strings in python.It all depends on your preference. I should also go through all ways so that it can be easier to read through some other person's code.It was an amazing experience.
 
 ***Link to Work:*** https://github.com/Wainainajoyce/100-days-of-code/blob/main/Day1/fundamentals.py
 
