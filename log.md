@@ -34,6 +34,29 @@
  
 ***Link to Work:*** https://github.com/Wainainajoyce/100-days-of-code/blob/main/Day4/oop.py
 
+## Day 5/100: Saturday 16<sup>th</sup> March 2024
+***Today's Progress:*** Worked on Git and github challenge on microsoft   
+
+***Thoughts:*** Just realized that you can use git and github on a button click in VS code without writing any git commands on the commandline by utilizing Source Management Control functionalities.
+ 
+***Link to Work:*** https://learn.microsoft.com/en-us/training/challenges?id=d9511a76-8f0f-46d4-9a6b-8ca34a616311
+
+## Day 6/100: Sunday 17<sup>th</sup> March 2024
+***Today's Progress:*** Completed the git and github challenge on microsoft   
+
+***Thoughts:*** Actually,we never grasp all the commands in git. They are very numerous. To get them into your fingertips is to just continue using them frequently and understand how they work.
+ 
+***Link to Work:*** https://learn.microsoft.com/en-us/training/challenges?id=d9511a76-8f0f-46d4-9a6b-8ca34a616311
+
+## Day 7/100: Monday 18<sup>th</sup> March 2024
+***Today's Progress:*** Went through AWS cloud practitioner certification modules.Learnt about the pricing models, the instance families,AWS serverless architecture that include AWS lambda for compute and AWS fargate for containerization and orchestration, EKS, ECS.  
+
+***Thoughts:*** AWS is amazing
+ 
+***Link to Work:*** Work on AWS skill builder
+
+
+
 
 
 
