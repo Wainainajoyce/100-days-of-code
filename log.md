@@ -56,6 +56,14 @@
 ***Link to Work:*** Work on AWS skill builder
 
 
+## Day 8/100: Tuesday 19<sup>th</sup> March 2024
+***Today's Progress:*** Continued with the AWS cloud practitioner. Today I went through the Global infrastructure and Reliability Module. I learnt about the subdivision of the AWS global infrastructure into regions, then to different availability zones.All these is to ensure availability, resilience and fault tolerance. Also worked on some more AWS services such as AWS beanstalk,AWS Cloudfront and AWS cloud formation.
+
+***Thoughts:*** AWS is still very amazing and large.AWS also produces very many services yearly to ease the work of the user or according to user requirements.
+ 
+***Link to Work:*** Work on AWS skill builder
+
+
 
 
 
