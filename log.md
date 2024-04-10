@@ -63,6 +63,20 @@
  
 ***Link to Work:*** Work on AWS skill builder
 
+## Day 9/100: Wednesday 20<sup>th</sup> March 2024
+***Today's Progress:*** Guys, still in the practitioner, things really gets exciting day by day. Have you ever throught of how VPNs are used in the cloud?This is the day.Though am still stressed about my exams, this space has got me nuts. So i went through Networking in the cloud. First you gotta think about a private network where one can define their terms. One such is a VPC(Virtual Private Cloud). It enables one to create a logically isolated location in AWS where you can define your AWS resources.The VPC is subdivided into subnets which define the public and private groupings. You can have a public subnet and a private subnet. Each subnet can have their resources such as EC2 instances. Access to the VPC can be through an Internet Gateway, a Virtual Private Gateway(VPN type) and a Direct Connect as a service offered by AWS. Access to the Subnet is through Network Access Control Lists(Network ACLs), access to the EC2 instances is through security groups. All this ensure security of your resources and generally the VPC. Kinda insighting, right??
+
+***Thoughts:*** Its not really easy to practically practice AWS but am trying to work around the budget maintaining at $0
+ 
+***Link to Work:*** Work on AWS skill builder
+
+## Day 10/100: Thursday 21<sup>th</sup> March 2024
+***Today's Progress:*** Guys, still in the practitioner, things really gets exciting day by day. Have you ever throught of how VPNs are used in the cloud?This is the day.Though am still stressed about my exams, this space has got me nuts. So i went through Networking in the cloud. First you gotta think about a private network where one can define their terms. One such is a VPC(Virtual Private Cloud). It enables one to create a logically isolated location in AWS where you can define your AWS resources.The VPC is subdivided into subnets which define the public and private groupings. You can have a public subnet and a private subnet. Each subnet can have their resources such as EC2 instances. Access to the VPC can be through an Internet Gateway, a Virtual Private Gateway(VPN type) and a Direct Connect as a service offered by AWS. Access to the Subnet is through Network Access Control Lists(Network ACLs), access to the EC2 instances is through security groups. All this ensure security of your resources and generally the VPC. Kinda insighting, right??
+
+***Thoughts:*** Its not really easy to practically practice AWS but am trying to work around the budget maintaining at $0
+ 
+***Link to Work:*** Work on AWS skill builder
+
 
 
 
