@@ -71,11 +71,20 @@
 ***Link to Work:*** Work on AWS skill builder
 
 ## Day 10/100: Thursday 21<sup>th</sup> March 2024
-***Today's Progress:*** Guys, still in the practitioner, things really gets exciting day by day. Have you ever throught of how VPNs are used in the cloud?This is the day.Though am still stressed about my exams, this space has got me nuts. So i went through Networking in the cloud. First you gotta think about a private network where one can define their terms. One such is a VPC(Virtual Private Cloud). It enables one to create a logically isolated location in AWS where you can define your AWS resources.The VPC is subdivided into subnets which define the public and private groupings. You can have a public subnet and a private subnet. Each subnet can have their resources such as EC2 instances. Access to the VPC can be through an Internet Gateway, a Virtual Private Gateway(VPN type) and a Direct Connect as a service offered by AWS. Access to the Subnet is through Network Access Control Lists(Network ACLs), access to the EC2 instances is through security groups. All this ensure security of your resources and generally the VPC. Kinda insighting, right??
+***Today's Progress:*** Cloud! cloud! cloud! When we look up in the sky, we view clouds. They are vast, enormous, large and very mysterious. Actally no one has ever caught a cloud 😄 😄 Come to think of the tech cloud computing🤔 , its virtual computing, you won't touch it, its all in the internet. Done with that.What service offers DNS services in the cloud? **Amazon Route 53 ** , so thats what i went through. It translates domain names into ip addresses and collaborate with **Amazon cloudfront** and **Amazon s3 bucket** to deliver applications, files or content to the user. In relation  to cloudfront i looked into CDNs and Edge locations and how they all work together with cloudfront to make sure content is delivered to a customer with high speed, low atency and reliabity. 
 
-***Thoughts:*** Its not really easy to practically practice AWS but am trying to work around the budget maintaining at $0
+***Thoughts:*** Its quite amazing how most of our offline and on-prem services can be converted to similar, simpler services in the cloud!! Can't wait to dive deepr into all this.
  
 ***Link to Work:*** Work on AWS skill builder
+
+## Day 11/100: Friday 22<sup>th</sup> March 2024
+***Today's Progress:*** Cloud! cloud! cloud! When we look up in the sky, we view clouds. They are vast, enormous, large and very mysterious. Actally no one has ever caught a cloud 😄 😄 Come to think of the tech cloud computing🤔 , its virtual computing, you won't touch it, its all in the internet. Done with that.What service offers DNS services in the cloud? **Amazon Route 53 ** , so thats what i went through. It translates domain names into ip addresses and collaborate with **Amazon cloudfront** and **Amazon s3 bucket** to deliver applications, files or content to the user. In relation  to cloudfront i looked into CDNs and Edge locations and how they all work together with cloudfront to make sure content is delivered to a customer with high speed, low atency and reliabity. 
+
+***Thoughts:*** Its quite amazing how most of our offline and on-prem services can be converted to similar, simpler services in the cloud!! Can't wait to dive deepr into all this.
+ 
+***Link to Work:*** Work on AWS skill builder
+
+
 
 
 
